@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#a{
+    width: auto;
+    height: 650px;
+      color: aliceblue;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    border: 2px solid black;
+    background-image: url(https://www.cloud4c.com/lat/sites/lat/files/styles/thumbnail_for_facebook/public/2022-08/RBI-compliance-cloud4c-webpage-1.jpg?itok=ReB05EEZ);
+}
+#b{
+    height: 400px;
+    width: 400px;
+    border: 4px solid rgb(62, 165, 221);
+    margin: 100px 230px;
+    color: aliceblue;
+    text-align: center;
+  
+}
+.c{height: 50px;
+    font-size: 17px;
+   width: 400px;
+   
+   margin-top: 30px;
+   
+}
+input{ height: 30px ;
+width: 300px;
+color: rgb(158, 158, 49);
+
+}
+#l{height: 30px ;
+    width: 300px;
+    border: 2px solid rgb(0, 179, 255);
+    border-radius: 5px;
+    color: white;
+    background-color:rgb(0, 179, 255) ;
+    font-size: 20px;
+}
+#lc{height: 20px; width: 100px;}
+
